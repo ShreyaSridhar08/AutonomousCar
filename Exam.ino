@@ -1,6 +1,6 @@
 //Autonomous Vehicle
-//Author: Sanya Sharma
-//Date: January 22, 2020
+//Author: Shreya Sridhar 
+//Date: April 23rd, 2022
 //Description: The code below drives a car forward and when an obstacle is encountered it choose to turn left or right. While backing up before turning it makes beeping sounds.
 
 
